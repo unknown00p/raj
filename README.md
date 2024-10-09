@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG13bGt4ZzNhZ3RrdmtwczVicjJ3ejFjeDh1cWVxOWgyd3UyZ3RpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" align="center" style="width: 100%" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpqczhlZzhoZHo0anltMTJ5ajlpNXlubDY1NGRwanR2bTExa3Z1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -69,10 +69,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=unknown00p&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>
-
-
-<br />
+<br/>  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
