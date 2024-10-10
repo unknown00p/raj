@@ -6,7 +6,7 @@
 ### <div align="center">hii 👋 I'm Raj, a junior full stack developer 👨‍💻from india</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/unknown00p/youtube-app)  
+- 🔭 I’m currently working on [Streaming platform](https://github.com/unknown00p/youtube-app)  
   
 
 - 🌱 I’m currently learning BullMQ and Redis  
