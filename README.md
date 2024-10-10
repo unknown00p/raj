@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">hii 👋 I'm Raj, a junior full stack developer 👨‍💻from india</div>  
+### <div align="center">hii 👋 I'm Raj, a full stack developer 👨‍💻from India</div>  
   
 
 - 🔭 I’m currently working on [Streaming platform](https://github.com/unknown00p/youtube-app)  
